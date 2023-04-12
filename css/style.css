@@ -163,10 +163,10 @@ html {
 body {
   padding: 15px 50px 20px 20px;
   text-align: center;
-  background-color: #f1edda;
+  background-color: #fff;
   color: #202e3c;
   font-family: var(--font-sans);
-  background-image: url(../images/cornerimg.png), url(../images/repeatimg.png);
+  background-image: url(../images/corner2.png), url(../images/reporting4.png);
   background-position: left top, top right;
   background-repeat: no-repeat, repeat-y;
   background-size: 105px, 40px;
@@ -190,7 +190,7 @@ img {
   margin-bottom: 20px;
 }
 .groombride {
-  color: #019e01;
+  color: goldenrod;
   margin-bottom: 1px;
 }
 .weds {
@@ -198,7 +198,7 @@ img {
   font-size: 24px;
 }
 .program {
-  color: #3a7f4a;
+  color: goldenrod;
   padding: 12px 10px 10px;
   background-color: #ffffff80;
   margin-bottom: 30px;
@@ -235,11 +235,11 @@ li.heading {
   font-size: 22px;
 }
 .venu {
-  color: #963804;
+  color: goldenrod;
   margin-bottom: 25px;
 }
 .fontChange {
-  color: #8d4714;
+  color: goldenrod;
   font-size: 34px;
 }
 .contact-person {
@@ -253,6 +253,9 @@ li.heading {
 .contact-person p em {
   font-size: 18px;
   margin-top: 2px;
+}
+.contact-person p a {
+  color: goldenrod;
 }
 .grom-details {
   border: 2px dashed #add5ad;
